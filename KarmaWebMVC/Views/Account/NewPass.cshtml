@@ -1,0 +1,96 @@
+﻿@model AppUserModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    var message = TempData["success"] ?? TempData["error"];
+
+}
+
+<!-- Start Banner Area -->
+<section class="banner-area organic-breadcrumb">
+    <div class="container">
+        <div class="breadcrumb-banner d-flex flex-wrap align-items-center justify-content-end">
+            <div class="col-first">
+                <h1>Login/Register</h1>
+                <nav class="d-flex align-items-center">
+                    <a href="index.html">Home<span class="lnr lnr-arrow-right"></span></a>
+                    <a href="category.html">Login/Register</a>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Banner Area -->
+<!--================Login Box Area =================-->
+<section class="login_box_area section_gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="login_box_img">
+                    <img class="img-fluid" src="../KarmaFontEnd/img/login.jpg" alt="">
+                    <div class="hover">
+                        <h4>New to our website?</h4>
+                        <p>There are advances being made in science and technology everyday, and a good example of this is the</p>
+                        <a id="toggleButton" class="primary-btn" href="@Url.Action("Create", "Account")">Create an Account</a>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Login Form -->
+            <div class="col-lg-6" id="login-form">
+                <div class="login_form_inner">
+                    <h3>Reset a new Password</h3>
+
+                    @using (Html.BeginForm("UpdateNewPassword", "Account", FormMethod.Post, new { @class = "row login_form", id = "contactForm", novalidate = "novalidate" }))
+                    {
+                        @if (message != null)
+                        {
+                            <div class="alert @(TempData["success"] != null ? "alert-success" : "alert-danger")">
+                                @message
+                            </div>
+                        }
+
+                        @if (ViewBag.LoginStatus != null)
+                        {
+                            <div class="alert alert-danger">
+                                @ViewBag.LoginStatus
+                            </div>
+                        }
+                        @Html.HiddenFor(m => m.Token, new { @Value = ViewBag.Token })
+                        <!-- Hiển thị lỗi chung -->
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        //<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="col-md-12 form-group">
+                            @Html.TextBoxFor(m => m.Email, new { @Value = ViewBag.Email, @class = "form-control", @placeholder = "Email", @onfocus = "this.placeholder = ''", @onblur = "this.placeholder = 'Email'", @readonly = "readonly" })
+                            <!-- Hiển thị lỗi cho trường Email -->
+                            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="col-md-12 form-group">
+
+                            @Html.PasswordFor(m => m.PasswordHash, new { @class = "form-control", @placeholder = "Password", @onfocus = "this.placeholder = ''", @onblur = "this.placeholder = 'Password'" })
+                            @Html.ValidationMessageFor(m => m.PasswordHash, "", new { @class = "text-danger" })
+                        </div>
+                        
+
+
+                        <div class="col-md-12 form-group">
+                            <button class="primary-btn">Send</button>
+
+                        </div>
+
+                    }
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</section>
+
+
+
+
+

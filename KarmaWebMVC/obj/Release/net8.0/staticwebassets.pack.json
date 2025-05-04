@@ -1,0 +1,1709 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\KarmaWebMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KarmaWebMVC.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\css\\style.css",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\css\\style.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\img\\user.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\js\\main.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\js\\main.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\AdminFrontEnd\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\availability-calendar.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\availability-calendar.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\bootstrap.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\linearicons.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\main.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\main.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\main.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\main.map",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\main.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\css\\themify-icons.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\banner\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\banner\\banner-bg.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\banner\\banner-img.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\banner\\banner-img.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\banner\\common-banner.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\banner\\common-banner.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\banner\\next.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\banner\\next.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\banner\\prev.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\banner\\prev.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\author.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\latest-post\\l-post-1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\latest-post\\l-post-1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\latest-post\\l-post-2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\latest-post\\l-post-2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\latest-post\\l-post-3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\latest-post\\l-post-3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\latest-post\\l-post-4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\latest-post\\l-post-4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\brand\\1.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\brand\\2.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\brand\\3.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\brand\\4.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\brand\\5.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\brand\\5.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\cart.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\cart.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\category\\c1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\category\\c1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\category\\c2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\category\\c2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\category\\c3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\category\\c3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\category\\c4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\category\\c4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\category\\c5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\category\\c5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\category\\s-p1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\category\\s-p1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\exclusive.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\exclusive.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\fav.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\fav.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\features\\f-icon1.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\features\\f-icon1.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\features\\f-icon2.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\features\\f-icon2.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\features\\f-icon3.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\features\\f-icon3.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\features\\f-icon4.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\features\\f-icon4.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\i1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\i1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\i2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\i2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\i3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\i3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\i4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\i4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\i5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\i5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\i6.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\i6.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\i7.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\i7.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\i8.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\i8.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\l1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\l1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\l2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\l2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\l3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\l3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\l4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\l4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\l5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\l5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\l6.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\l6.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\l7.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\l7.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\l8.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\l8.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\login.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\logo.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\men-bg.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\men-bg.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\ob1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\ob1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\ob2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\ob2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\ob3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\ob3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\b1.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\b1.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\b2.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\b2.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\b3.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\b3.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\b4.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\b4.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\c1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\c1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\c2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\c2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\c3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\c3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\c4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\c4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\cd-bg.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\cd-bg.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\cd.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\cd.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\ci1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\ci1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\ci2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\ci2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\ci3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\ci3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\f1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\f1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\f2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\f2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\f3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\f3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\f4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\f4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\m1.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\m1.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp10.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp10.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp11.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp11.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp12.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp12.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp6.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp6.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp7.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp7.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp8.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp8.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\mp9.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\mp9.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\ob1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\ob1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\ob2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\ob2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\ob3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\ob3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\p1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\p1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\p2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\p2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\p3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\p3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\p4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\p4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\p5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\p5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\p6.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\p6.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\p7.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\p7.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\p8.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\p8.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\pl1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\pl1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\pl2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\pl2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\pl3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\pl3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\pl4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\pl4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\pl5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\pl5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\pl6.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\pl6.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\pl7.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\pl7.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\pl8.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\pl8.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\pm.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\pm.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\q1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\q1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\u1.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\u1.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\u2.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\u2.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\organic-food\\u3.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\organic-food\\u3.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\card.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\card.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\e-p1.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\e-p1.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\next.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\next.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\p1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\p1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\p2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\p2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\p3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\p3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\p4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\p4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\p5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\p5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\p6.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\p6.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\p7.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\p7.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\p8.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\p8.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\prev.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\prev.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\review-1.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\review-1.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\review-2.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\review-2.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\product\\review-3.png",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\product\\review-3.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\q1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\q1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r10.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r10.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r11.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r11.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r12.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r12.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r6.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r6.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r7.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r7.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r8.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r8.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\r9.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\r9.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\sd\\c1.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\sd\\c1.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\sd\\c2.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\sd\\c2.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\sd\\c3.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\sd\\c3.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\sd\\c4.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\sd\\c4.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\img\\sd\\c5.jpg",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\img\\sd\\c5.jpg"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\countdown.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\login.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\login.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\main.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\main.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\parallax.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\js\\vendor\\popper.js",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\js\\vendor\\popper.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\main.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_banner.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_banner.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_common.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_common.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_contact.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_contact.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_predefine.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_predefine.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_product.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_product.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\KarmaFontEnd\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\KarmaFontEnd\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\img\\banner\\next.png",
+      "PackagePath": "staticwebassets\\img\\banner\\next.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\img\\banner\\prev.png",
+      "PackagePath": "staticwebassets\\img\\banner\\prev.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\img\\product\\next.png",
+      "PackagePath": "staticwebassets\\img\\product\\next.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\img\\product\\prev.png",
+      "PackagePath": "staticwebassets\\img\\product\\prev.png"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.KarmaWebMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.KarmaWebMVC.props",
+      "PackagePath": "build\\KarmaWebMVC.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KarmaWebMVC.props",
+      "PackagePath": "buildMultiTargeting\\KarmaWebMVC.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.KarmaWebMVC.props",
+      "PackagePath": "buildTransitive\\KarmaWebMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,7 @@
+﻿@model IEnumerable<KarmaWebMVC.Models.Cart>
+<li class="nav-item">
+    <a asp-controller="Cart" asp-action="Index" class="cart">
+        <span class="ti-bag" >@Model.Sum(c => c.CartQuantity)</span>
+       
+    </a>
+</li>

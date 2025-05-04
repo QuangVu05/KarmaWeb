@@ -1,0 +1,25 @@
+﻿@model IEnumerable<KarmaWebMVC.Models.Brand>
+<form method="get" asp-controller="Product" asp-action="Index">
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li class="filter-list">
+                <input value="@item.BrandId" class="pixel-radio" type="radio" id="@item.BrandId" name="brandSlug" onclick="this.form.submit();">
+                <label for="@item.BrandId">
+                    @item.BrandName<span>
+                        @if (item.Products != null)
+                        {
+                            <span class="number">@item.Products.ToList().Count</span>
+                        }
+                        else
+                        {
+                            <span class="number">0</span>
+                        }
+                    </span>
+                </label>
+            </li>
+        }
+    </ul>
+</form>
+
+

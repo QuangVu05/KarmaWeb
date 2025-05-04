@@ -1,0 +1,24 @@
+﻿@model IEnumerable<KarmaWebMVC.Models.Category>
+
+
+<ul class="main-categories">
+	@foreach (var item in Model)
+	{
+		<li class="main-nav-list">
+			<a asp-action="Index" asp-controller="Product" asp-route-categorySlug="@item.CategoryId">
+				<span class="lnr lnr-arrow-right"></span>@item.CategoryName
+				@if(item.Products != null)
+				{
+					<span class="number">@item.Products.ToList().Count</span>
+				}
+				else
+				{
+					<span class="number">0</span>
+				}
+				
+			</a>
+		</li>
+	}
+	
+</ul>
+

@@ -1,0 +1,21 @@
+﻿version: '3.8'
+
+services:
+  mssql-server:
+    container_name: myapp-db
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "123456"
+      MSSQL_PID: Developer
+    ports:
+      - "1433:1433"
+  karmawebmvc-app:
+    build: .
+    environment:
+      DatabaseServer: "mssql-server"
+      DatabasePort: "1433"
+      DatabasePassword: "123456"
+      DatabaseName: "Karma"
+    ports:
+      - "8001:8080"
