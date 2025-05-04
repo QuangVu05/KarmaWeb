@@ -1,0 +1,606 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# Web\\KarmaWebMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\docker-compose||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\docker-compose||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\areas\\admin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\data\\karmawebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\data\\karmawebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\areas\\admin\\views\\productsadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\areas\\admin\\views\\productsadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\areas\\admin\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\controllers\\_productviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\controllers\\_productviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\areas\\admin\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\areas\\admin\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\controllers\\_brandviewcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\controllers\\_brandviewcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\views\\shared\\_productlistview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\views\\shared\\_productlistview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\wwwroot\\adminfrontend\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\wwwroot\\adminfrontend\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|e:\\c# web\\karmawebmvc\\karmawebmvc\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140D55F0-DC82-453A-AAAF-940B71675707}|KarmaWebMVC\\KarmaWebMVC.csproj|solutionrelative:karmawebmvc\\areas\\admin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\docker-compose",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\docker-compose",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\docker-compose",
+              "RelativeToolTip": "KarmaWebMVC\\docker-compose",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-04T09:46:14.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "KarmaWebMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-04T09:46:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\appsettings.json",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\appsettings.json",
+              "RelativeToolTip": "KarmaWebMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T09:46:04.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T07:58:05.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Program.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Program.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:11:43.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Areas\\Admin\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwEoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:05:39.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUserModel.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\AppUserModel.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\AppUserModel.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\AppUserModel.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\AppUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:00:51.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KarmaWebMVCContext.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Data\\KarmaWebMVCContext.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Data\\KarmaWebMVCContext.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Data\\KarmaWebMVCContext.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Data\\KarmaWebMVCContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T03:47:18.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T12:25:15.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\User.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\User.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:08:05.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\ProductsAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Areas\\Admin\\Views\\ProductsAdmin\\Create.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\ProductsAdmin\\Create.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Areas\\Admin\\Views\\ProductsAdmin\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T12:05:10.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T12:04:15.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ProductViewController.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Controllers\\_ProductViewController.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Controllers\\_ProductViewController.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Controllers\\_ProductViewController.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Controllers\\_ProductViewController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:51:35.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\Product.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\Product.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\Product.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:56:03.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\OrderStatus.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:56:01.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\OrderItems.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\OrderItems.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\OrderItems.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\OrderItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:55:59.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\Order.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\Order.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:55:52.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\UserModel.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\UserModel.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:56:39.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Views\\Account\\Create.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T07:19:08.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Areas\\Admin\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-06T07:15:09.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T09:46:08.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:35:50.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_BrandViewComponents.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Controllers\\_BrandViewComponents.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Controllers\\_BrandViewComponents.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Controllers\\_BrandViewComponents.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Controllers\\_BrandViewComponents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:35:44.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\Brand.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\Brand.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:35:35.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\Brands\\Create.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Areas\\Admin\\Views\\Brands\\Create.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\Brands\\Create.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Areas\\Admin\\Views\\Brands\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T08:07:13.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:35:15.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\Category.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\Category.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:34:14.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Models\\Cart.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Models\\Cart.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:34:07.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T02:07:19.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAJwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T01:48:14.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ProductListView.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Views\\Shared\\_ProductListView.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Views\\Shared\\_ProductListView.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Views\\Shared\\_ProductListView.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Views\\Shared\\_ProductListView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T01:45:39.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KarmaWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T00:53:49.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "main.js",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\js\\main.js",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\wwwroot\\AdminFrontEnd\\js\\main.js",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\wwwroot\\AdminFrontEnd\\js\\main.js",
+              "RelativeToolTip": "KarmaWebMVC\\wwwroot\\AdminFrontEnd\\js\\main.js",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-17T07:57:53.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:57:33.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "KarmaWebMVC\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\C# Web\\KarmaWebMVC\\KarmaWebMVC\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "KarmaWebMVC\\Areas\\Admin\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:57:31.562Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

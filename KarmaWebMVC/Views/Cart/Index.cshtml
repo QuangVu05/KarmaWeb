@@ -1,0 +1,165 @@
+﻿@model IEnumerable<KarmaWebMVC.Models.Cart>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_ProductListView.cshtml";
+}
+
+
+<!-- Start Banner Area -->
+<section class="banner-area organic-breadcrumb">
+    <div class="container">
+        <div class="breadcrumb-banner d-flex flex-wrap align-items-center justify-content-end">
+            <div class="col-first">
+                <h1>Shopping Cart</h1>
+                <nav class="d-flex align-items-center">
+                    <a href="index.html">Home<span class="lnr lnr-arrow-right"></span></a>
+                    <a href="category.html">Cart</a>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Banner Area -->
+<!--================Cart Area =================-->
+<section class="cart_area">
+    <div class="container">
+        <div class="cart_inner">
+            <div class="table-responsive">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Product</th>
+                                <th scope="col">Price</th>
+                                <th scope="col">Quantity</th>
+                                <th scope="col">Total</th>
+                                <th scope="col">Handle</th>
+                            </tr>
+                        </thead>
+                         
+                        <tbody>
+                             @foreach (var item in Model)
+                            {
+                             <tr>
+                                <td>
+                                    <div class="media">
+                                        <div class="d-flex">
+                                            <img src="@item.CartImage" alt="" style="width: 100px; height: auto;">
+                                        </div>
+                                        <div class="media-body">
+                                            <p>@item.CartName</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                    <td >
+                                    <h5>$@item.CartPrice</h5>
+                                </td>
+                                <td>
+                                    <div class="product_count">
+                                            <input type="text" name="quantity[@item.CartId]" id="qty-@item.CartId"  value="@item.CartQuantity" title="Quantity:"
+                                            class="input-text qty">
+                                        <button onclick="var result = document.getElementById('sst'); var sst = result.value; if( !isNaN( sst )) result.value++;return false;"
+                                            class="increase items-count" type="button"><i class="lnr lnr-chevron-up"></i></button>
+                                        <button onclick="var result = document.getElementById('sst'); var sst = result.value; if( !isNaN( sst ) &amp;&amp; sst > 0 ) result.value--;return false;"
+                                            class="reduced items-count" type="button"><i class="lnr lnr-chevron-down"></i></button>
+                                    </div>
+                                </td>
+                                <td>
+                                    <h5>$@item.CartTotalPrice</h5>
+                                </td>
+                                <td>
+                                        <!-- Nút Xóa Sản Phẩm -->
+                                        <form asp-action="RemoveCart" asp-controller="Cart" asp-route-id="@item.CartId" style="display:inline;" id="remote">
+                                            <input type="hidden" name="productId" value="@item.CartId" />
+                                            <button id="remote"  type="submit" style="background-color: transparent; border: none; color: #e74c3c; font-size: 30px; padding: 0; margin-left: 10px; margin-right: 10px;">
+                                                &times; <!-- Ký tự "X" -->
+                                            </button>
+                                        </form>
+                                    </td>
+                            </tr>
+                         
+                            }
+                            <tr class="bottom_button">
+                                <td>
+                                    <button type="submit" class="gray_btn">Update All</button>
+                                </td>
+
+                             </tr>
+                                @*  <td>
+                                    <a class="gray_btn" asp-action="AddToCart" asp-controller="Cart" asp-route-id= style="padding: 5px 10px; background-color: #ccc; color: black; border-radius: 4px; margin-left: 10px;">Update Cart</a>
+                                </td> *@
+                 
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                    <div class="cupon_text d-flex align-items-center">
+                        <input type="text" placeholder="Coupon Code">
+                        <a class="primary-btn" href="#">Apply</a>
+                        <a class="gray_btn" href="#" style="padding: 5px 10px; background-color: #ccc; color: black; border-radius: 4px; margin-left: 10px;">Close Coupon</a> <!-- Nút Close Coupon -->
+                    </div>
+                </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>
+                        <h5>Total Price</h5>
+                    </td>
+                    <td>
+                        <h5 id="totalWithShipping">@Model.Sum(p => p.CartTotalPrice)</h5> <!-- Display cart total with shipping -->
+                    </td>
+                </tr>
+
+                <tr class="shipping_area">
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                        <h5>Shipping</h5>
+                    </td>
+                    <td>
+                        <div class="shipping_box">
+                            <ul class="list">
+                                <li><a href="#">Flat Rate: $5.00</a></li>
+                                <li><a href="#">Free Shipping</a></li>
+                                <li><a href="#">Flat Rate: $10.00</a></li>
+                                <li class="active"><a href="#">Local Delivery: $2.00</a></li>
+                            </ul>
+                            <h6>Calculate Shipping <i class="fa fa-caret-down" aria-hidden="true"></i></h6>
+                            <select class="shipping_select">
+                                <option value="1">Bangladesh</option>
+                                <option value="2">India</option>
+                                <option value="4">Pakistan</option>
+                            </select>
+                            <select class="shipping_select">
+                                <option value="1">Select a State</option>
+                                <option value="2">Select a State</option>
+                                <option value="4">Select a State</option>
+                            </select>
+                            <input type="text" placeholder="Postcode/Zipcode">
+                            <a class="gray_btn">Update Details</a>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="out_button_area">
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                    </td>
+                    <td>
+                        <div class="checkout_btn_inner d-flex align-items-center">
+                            <a class="gray_btn" asp-controller="Product"  style="padding: 5px 10px; background-color: #ccc; color: black; border-radius: 4px; margin-left: 10px;">Continue Shopping</a>
+                            <a class="primary-btn" href="#">Proceed to checkout</a>
+                        </div>
+                    </td>
+                </tr>
+                </tbody>
+
+                </table>
+
+
+<!--================End Cart Area =================-->

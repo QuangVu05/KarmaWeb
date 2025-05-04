@@ -1,0 +1,42 @@
+﻿@model IEnumerable<KarmaWebMVC.Models.Size>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Size List</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary btn-sm">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SizeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SizeOder)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SizeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SizeOder)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.SizeId" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.SizeId" class="btn btn-info btn-sm">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.SizeId" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this item?');">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

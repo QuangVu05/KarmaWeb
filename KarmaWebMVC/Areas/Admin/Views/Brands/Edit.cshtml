@@ -1,0 +1,44 @@
+﻿@model KarmaWebMVC.Models.Brand
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Brand</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="BrandId" />
+            <div class="form-group">
+                <label asp-for="BrandName" class="control-label"></label>
+                <input asp-for="BrandName" class="form-control" />
+                <span asp-validation-for="BrandName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BrandDescription" class="control-label"></label>
+                <input asp-for="BrandDescription" class="form-control" />
+                <span asp-validation-for="BrandDescription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BrandOder" class="control-label"></label>
+                <input asp-for="BrandOder" class="form-control" />
+                <span asp-validation-for="BrandOder" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br/>
+<div>
+    <a asp-action="Index" class="btn btn-secondary">
+        <i class="fas fa-arrow-left"></i> Back to List
+    </a>
+</div>
+

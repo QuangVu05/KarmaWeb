@@ -1,0 +1,51 @@
+﻿@model IEnumerable<KarmaWebMVC.Models.Brand>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Brands List</h1>
+<br/>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary btn-sm" >Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BrandName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BrandDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BrandOder)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrandName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrandDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BrandOder)
+            </td>
+            <td>
+               <td>
+    <a asp-action="Edit" asp-route-id="@item.BrandId" class="btn btn-warning btn-sm">Edit</a>
+    <a asp-action="Details" asp-route-id="@item.BrandId" class="btn btn-info btn-sm">Details</a>
+    <a asp-action="Delete" asp-route-id="@item.BrandId" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure you want to delete this item?');">Delete</a>
+</td>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
